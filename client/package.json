@@ -1,7 +1,7 @@
 {
   "name": "wave-app",
   "version": "0.0.0",
-  "homepage": "https://www.gericht-restaurant.com",
+  "homepage": "https://www.wave-app.com",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
