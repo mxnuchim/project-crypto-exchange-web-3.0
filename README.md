@@ -1,15 +1,9 @@
-# Krypt - Web 3.0 Blockchain Application
-![Krypt](https://i.ibb.co/DVF4tNW/image.png)
+# Wave - Web 3.0 Blockchain solution
+![Wave](https://github.com/mxnuchim/project-wave-web3.0/blob/main/BB48DB86-A7B4-4340-AC2A-ED46FD16007D.jpeg)
 
-## Introduction
-This is a code repository for the corresponding video tutorial.
+## [Take a look](https://wave-crypto-exchange-mxnuchim.vercel.app/)
+This is a code repository for the corresponding blockchain DApp hosted on Vercel
 
-Using Web 3.0 methodologies, Solidity and Metamask you'll learn how to build a your first real Web 3.0 Application - from start to finish.
-
-Project created in collaboration with Enyel Sequeira: 
-Portfolio - https://www.enyelsequeira.com
-E-mail - enyelsequeira1994@gmail.com
-Want me to cover the project you've created? Send me an e-mail 👌
-
-## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://jsmasterypro.com/newsletter
+Portfolio - Coming soon
+E-mail - manuchimoliver779@gmail.com
+Want to collaborate or hire me? Send me an e-mail 👌
